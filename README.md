@@ -1,3 +1,2 @@
 # Jowitasrepository
-Projects FYS4150.
-adding text to it second time
+Projects for FYS4150 at University of Oslo, Autumn 2019.
