@@ -1,2 +1,2 @@
 # CompPhysics
-Projects for FYS4150 at University of Oslo, Autumn 2019.
+Projects for Computational Physics (FYS4150) at the University of Oslo, Autumn 2019.
